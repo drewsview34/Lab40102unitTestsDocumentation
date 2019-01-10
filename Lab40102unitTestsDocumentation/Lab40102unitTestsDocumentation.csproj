@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp2.2</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\XUnitTestProject1\Lab40102xUnit.csproj" />
+  </ItemGroup>
+
 </Project>
