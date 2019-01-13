@@ -1,6 +1,6 @@
-# Lab40101aboutMeQuiz
+# Lab40102andrewTM
 
-Lab 40101 About Me Quiz
+Lab 40102 AndrewTM
 
 Developer: Andrew Hinojosa
 
@@ -24,4 +24,4 @@ Here is a visual of what the program looks like.
 
 Successful Output
 
-![Lab40102]()
+![Lab40102](https://github.com/drewsview34/Lab40102unitTestsDocumentation/blob/master/andrewTM.PNG)
