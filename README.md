@@ -7,7 +7,7 @@ Developer: Andrew Hinojosa
 Contributors: Ryna Truong
 
 
-Actual Time to complete: 9 Hours
+Actual Time to complete: 11 Hours
 
 * User must create a new project in Visual Studio. 
 * User must push project to Github.
